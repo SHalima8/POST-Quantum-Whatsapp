@@ -975,7 +975,7 @@ This project is for educational purposes. Use appropriate licensing for producti
 ## 📞 Contact
 
 For questions or feedback:
-- GitHub: [@sadiaHalima-nust]((https://github.com/SHalima8))
+- GitHub: [@SHalima8]((https://github.com/SHalima8))
 - Repository: [post-quantum-whatsapp](https://github.com/muneebahmed-nust/post-quantum-whatsapp)
 
 ---
